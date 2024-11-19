@@ -1,4 +1,6 @@
+#ตั้งตัวแปร
 a = 'Koson'
 b = 'Pengphipat'
-print(a)
-print(b)
+
+#กดรันให้แสดงผล
+print(f" {a} \n {b}")
