@@ -1,3 +1,4 @@
+#2.0
 #รับค่าตัวเลขจากผู้ใช้
 a = float(input("Enter Number : "))
 
