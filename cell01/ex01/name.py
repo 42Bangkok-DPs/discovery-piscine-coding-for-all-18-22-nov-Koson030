@@ -1,3 +1,4 @@
+#1.1
 #ตั้งตัวแปร
 a = "Koson"
 b = "Pengphipat"
