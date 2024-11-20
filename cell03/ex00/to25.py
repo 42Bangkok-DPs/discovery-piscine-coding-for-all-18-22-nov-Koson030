@@ -1,6 +1,6 @@
 #3.0
 # รับข้อมูลจากผู้ใช้
-a = int(input("Enter a number less than 25 : "))
+a = int(input("Enter a number less than 25 \n"))
 
 # ตรวจสอบว่าเลขที่ใส่มานั้นถูกต้องหรือไม่
 if a > 25:
