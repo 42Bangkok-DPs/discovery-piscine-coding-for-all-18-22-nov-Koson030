@@ -1,3 +1,4 @@
+#!/bin/env python3
 #4.4
 import math #นำเข้าโมดูล math
 a = float(input("Give me a number: ")) #รับค่าจากผู้ใช้และแปลงเป็น float

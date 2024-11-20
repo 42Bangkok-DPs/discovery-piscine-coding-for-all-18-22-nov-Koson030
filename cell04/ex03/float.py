@@ -1,6 +1,7 @@
+#!/bin/env python3
 #4.3
-#รับข้อมูลจากผู้ใช้
-number = input("Give me a number: ")
+
+number = input("Give me a number: ")#รับข้อมูลจากผู้ใช้
 
 try: #ตรวจสอบว่าเป็นเลขทศนิยมหรือไม่
     float_number = float(number) #แปลงค่าเป็น float เพื่อตรวจสอบว่าเป็นทศนิยม
