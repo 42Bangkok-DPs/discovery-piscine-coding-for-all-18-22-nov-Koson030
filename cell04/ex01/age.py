@@ -1,3 +1,4 @@
+#!/bin/env python3
 #4.1
 # รับอายุจากผู้ใช้
 a = int(input("Please tell me your age: "))
