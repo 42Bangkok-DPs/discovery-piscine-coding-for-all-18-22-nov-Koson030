@@ -3,10 +3,10 @@
 password = "Python is awesome"
 
 # ขอให้ผู้ใช้ป้อนรหัสผ่าน
-user_password = input("Please enter your password: ")
+password1 = input("Please enter your password: ")
 
 # ตรวจสอบรหัสผ่านที่ผู้ใช้ป้อน
-if user_password == password:
+if password1 == password:
     print("ACCESS GRANTED")
 else:
     print("ACCESS DENIED")
