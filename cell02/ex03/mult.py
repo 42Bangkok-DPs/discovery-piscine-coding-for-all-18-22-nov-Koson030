@@ -1,7 +1,7 @@
 #2.3
 # รับค่าจากผู้ใช้
-a = int(input("Enter the first number: \n"))
-b = int(input("Enter the second number: \n"))
+a = int(input("Enter the first number : "))
+b = int(input("Enter the second number : "))
 
 # คูณและแสดงผล
 x = a * b
