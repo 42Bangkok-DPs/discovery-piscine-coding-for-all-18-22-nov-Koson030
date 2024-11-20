@@ -1,6 +1,6 @@
 #4.3
 #รับข้อมูลจากผู้ใช้
-number = input("กรุณากรอกตัวเลข: ")
+number = input("Give me a number: ")
 
 try: #ตรวจสอบว่าเป็นเลขทศนิยมหรือไม่
     float_number = float(number) #แปลงค่าเป็น float เพื่อตรวจสอบว่าเป็นทศนิยม
