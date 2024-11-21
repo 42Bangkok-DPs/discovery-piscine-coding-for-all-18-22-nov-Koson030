@@ -1,3 +1,4 @@
+#!/bin/env python3
 #4.2
 # รับค่าอินพุตจากผู้ใช้และแปลงเป็นจำนวนเต็ม
 a = int(input("Give me the first number: "))
